@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer | Front-End Developer</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abdelrahman-el-sayed-230850209/" target="__blank">
+<a href="https://www.linkedin.com/in/abdelrahman-el-sayed-230850209/" target="blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
 <a href="https://codepen.io/Abdelrahman385" target="blank">
@@ -25,11 +25,11 @@
 <h2>😎 About me</h2>
 
 ```yaml
-name: Abdelrahman El-Sayed Abdelghany
-located_in: Cairo, Egypt
+Name: Abdelrahman El-Sayed Abdelghany
+Located_in: Cairo, Egypt
 Title: Software Engineer
 
-fields_of_interests:
+Fields_of_interests:
   [
     "Web Development",
     "UI/UX"
@@ -38,8 +38,8 @@ fields_of_interests:
   
 ---  
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learn</h2>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
