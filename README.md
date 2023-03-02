@@ -3,10 +3,10 @@
 <h3 align="center">Software Engineer | Front-End Developer</h3>
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/thepiyushmalhotra/](https://www.linkedin.com/in/abdelrahman-el-sayed-230850209/)" target="blank">
+<a href="https://www.linkedin.com/in/abdelrahman-el-sayed-230850209/" target="blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="[https://dev.to/thepiyushmalhotra](https://codepen.io/Abdelrahman385)" target="blank">
+<a href="https://codepen.io/Abdelrahman385" target="blank">
   <img height="50" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"/>
 </a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/abdelghany_88" target="blank">
