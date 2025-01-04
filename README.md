@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Software Tester<br>- 📚 I'm currently learning Web Automation using Selenium<be>- 📫 How to reach me <a>abdelghanyabdelrahman88@gmail.com</a></p>
+<p align="left">- 🔭 I’m working as Software Tester<br>- 📚 I'm currently learning Web Automation using Selenium<br>- 📫 How to reach me **abdelghanyabdelrahman88@gmail.com**</p>
 
 ###
 
@@ -58,7 +58,7 @@
 
 <h3 align="left"> 📈 &nbsp;My GitHub History! :</h3>
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif))
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
