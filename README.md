@@ -58,11 +58,4 @@
 
 <p align="left">- 💻 Data Structure<br>- 🌐 Algorithms<br>- ☑️ OOP</p>
 
-<h3 align="left"> 📈 &nbsp;My GitHub History! :</h3>
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
 ###
