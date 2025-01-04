@@ -1,49 +1,35 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman El-Sayed Abdelghany</h1>
-
 <h3 align="center">Software Testing Engineer</h3>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/abdelrahman-el-sayed-230850209/" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahman-abdelghany&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahman-abdelghany" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-abdelghany" alt="abdelrahman-abdelghany" /></a> </p>
+
+- 📫 How to reach me **abdelghanyabdelrahman88@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-
-<p align="center">
-<img src="https://www.google.com/imgres?q=it%27s%20not%20a%20bug%20it%27s%20a%20feature&imgurl=https%3A%2F%2Fjuststickers.in%2Fwp-content%2Fuploads%2F2017%2F08%2Fits-not-a-bug-its-a-feature.png&imgrefurl=https%3A%2F%2Fjuststickers.in%2Fproduct%2Fits-not-a-bug-its-a-feature-sticker%2F&docid=_a14zhYuj6cd6M&tbnid=flfrRZQv9U_1cM&vet=12ahUKEwjchqOnidyKAxV0gf0HHQikCZAQM3oECHsQAA..i&w=528&h=528&hcb=2&ved=2ahUKEwjchqOnidyKAxV0gf0HHQikCZAQM3oECHsQAA"
-  alt="abdelrahman-abdelghany" height="400"
-/>
-</p>
-
----
-
-<h2>😎 About me</h2>
 
 ```yaml
 Name: Abdelrahman El-Sayed Abdelghany
-Located_in: Cairo, Egypt
-Title: Software Engineer
+Location: Cairo, Egypt
+Title: Software Testing Engineer
 
 Fields_of_interests:
   [
+    "Manual Testing",
+    "Automation Testing",
+    "Agile",
     "Web Development",
     "UI/UX"
   ]
 ```
-  
----  
-  
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learn</h2>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
-</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-abdelghany&show_icons=true&locale=en" alt="abdelrahman-abdelghany" /></p>
 
 ---
 
