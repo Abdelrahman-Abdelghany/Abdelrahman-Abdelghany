@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/abdelrahman-el-sayed-230850209/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://iconscout.com/icons/code-forces" class="text-underline font-size-sm" target="_blank">Code Forces</a> by <a href="https://iconscout.com/contributors/icon-54" class="text-underline font-size-sm" target="_blank">Icon 54</a>
 </div>
 
 ###
