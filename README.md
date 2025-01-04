@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1bqSAapvuKTTGXPynhc4vDLUrLwDGK-6z/view?usp=sharing"  />
-</div>
-
 ###
 
 <div align="center">
@@ -20,7 +16,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Software Tester<br>- 📚 I'm currently learning Web Automation using Selenium</p>
+<p align="left">- 🔭 I’m working as Software Tester<br>- 📚 I'm currently learning Web Automation using Selenium- 📫 You can reach me **abdelghanyabdelrahman88@gmail.com**</p>
 
 ###
 
@@ -56,6 +52,11 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left"> 📈 &nbsp;My GitHub History! :</h3>
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 ###
