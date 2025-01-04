@@ -1,11 +1,14 @@
 <h1 align="center"> Hi 👋, I'm Abdelrahman El-Sayed Abdelghany </h1>
 <h3 align="center">Software Testing Engineer</h3>
 
-<p align="center">
-![Untitled](https://github.com/user-attachments/assets/af47da09-8ce2-4031-bf23-07cb89153764)
-</p>
-
-- 📫 How to reach me **abdelghanyabdelrahman88@gmail.com**
+<div align="center">
+  <a href="https://www.linkedin.com/in/abdelrahman-el-sayed-230850209/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="abdelghanyabdelrahman88@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
 <h3 align="left">About Me:</h3>
 <p align="left">
