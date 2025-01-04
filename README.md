@@ -16,7 +16,7 @@
 
 <p align="left">- 🔭 I’m working as Software Tester</p>
 <p align="left">- 📚 I'm currently learning Web Automation using Selenium</p>
-<p align="left">- 📫 How to reach me <a>abdelghanyabdelrahman88@gmail.com</a></p>
+<p align="left">- 📫 How to reach me </p> <a>abdelghanyabdelrahman88@gmail.com</a>
 
 ###
 
