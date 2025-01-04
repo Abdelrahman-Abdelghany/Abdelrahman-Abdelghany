@@ -1,5 +1,7 @@
 <h1 align="center">hey there 👋 I'm Abdelrahman El-Sayed Abdelghany</h1>
 
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Testing+Engineer;ISTQB+Certified;Computer+Science" alt="Typing SVG" /></a>
+
 ###
 
 <div align="center">
