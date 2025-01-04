@@ -1,3 +1,5 @@
+<h1 align="center">hey there 👋 I'm Abdelrahman El-Sayed Abdelghany</h1>
+
 ###
 
 <div align="center">
@@ -8,15 +10,12 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Abdelrahman El-Sayed Abdelghany</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 🔭 I’m working as Software Tester<br>- 📚 I'm currently learning Web Automation using Selenium- 📫 You can reach me **abdelghanyabdelrahman88@gmail.com**</p>
+<p align="left">- 🔭 I’m working as Software Tester<br>- 📚 I'm currently learning Web Automation using Selenium</p>
+- 📫 How to reach me **abdelghanyabdelrahman88@gmail.com**
 
 ###
 
@@ -52,9 +51,15 @@
 
 ###
 
+<h3 align="left">Skills</h3>
+
+###
+
+<p align="left">- 💻 Data Structure<br>- 🌐 Algorithms<br>- ☑️ OOP</p>
+
 <h3 align="left"> 📈 &nbsp;My GitHub History! :</h3>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif))
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
