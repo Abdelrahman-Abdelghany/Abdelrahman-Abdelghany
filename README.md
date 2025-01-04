@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fits-not-a-bug-its-a-feature-stickers&psig=AOvVaw2g8y8vKOpLjtz6ePXkrnwp&ust=1736080330568000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC9jLKJ3IoDFQAAAAAdAAAAABAE"
+<img src="https://www.google.com/imgres?q=it%27s%20not%20a%20bug%20it%27s%20a%20feature&imgurl=https%3A%2F%2Fjuststickers.in%2Fwp-content%2Fuploads%2F2017%2F08%2Fits-not-a-bug-its-a-feature.png&imgrefurl=https%3A%2F%2Fjuststickers.in%2Fproduct%2Fits-not-a-bug-its-a-feature-sticker%2F&docid=_a14zhYuj6cd6M&tbnid=flfrRZQv9U_1cM&vet=12ahUKEwjchqOnidyKAxV0gf0HHQikCZAQM3oECHsQAA..i&w=528&h=528&hcb=2&ved=2ahUKEwjchqOnidyKAxV0gf0HHQikCZAQM3oECHsQAA"
   alt="abdelrahman-abdelghany" height="400"
 />
 </p>
