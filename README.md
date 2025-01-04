@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Software Tester<br>- 📚 I'm currently learning Web Automation using Selenium<br>- 📫 How to reach me **abdelghanyabdelrahman88@gmail.com**</p>
+<p align="left">- 🔭 I’m working as Software Tester<br>- 📚 I'm currently learning Web Automation using Selenium<br>- 📫 How to reach me abdelghanyabdelrahman88@gmail.com</p>
 
 ###
 
